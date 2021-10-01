@@ -2,7 +2,7 @@
 
 ### É um jogo estilo genius que criei entre os cursos da DIO, Digital Innovation One :)
 
-O código foi feito em Typescript e complicado para javascript usando:
+O código foi feito em Typescript e compilado para javascript usando:
 ```
 tsc index.ts
 ```
